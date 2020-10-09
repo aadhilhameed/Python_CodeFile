@@ -1,6 +1,7 @@
 #If statement using for tecket printing
-
-age = int(input ("what is your age:"))
+print("------WELCOME---------")
+name = input("What is your name ?")
+age = int(input ("what is your age ?"))
 
 if age > 50:
    t_price = 50
@@ -13,10 +14,12 @@ elif age > 18:
       
 else:
     t_price = 0
+
 print ("ticket price is :", t_price)
 
+print("-------THANK YOU----------")
 
-print("-----Thank you for coming-----")
+print("Come again...............")
 
 
 
