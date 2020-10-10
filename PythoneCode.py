@@ -4,13 +4,13 @@ name = input("What is your name ?")
 age = int(input ("what is your age ?"))
 
 if age > 50:
-   t_price = 50
+   t_price = 60
    
 elif age > 25:
-   t_price = 25
+   t_price = 35
    
 elif age > 18:
-    t_price = 10
+    t_price = 15
       
 else:
     t_price = 0
