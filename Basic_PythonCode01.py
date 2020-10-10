@@ -1,3 +1,4 @@
+#using for loop and printing name
 names = []
 names.append('wajiii')
 names.append('sharmii')
